@@ -1,7 +1,8 @@
 *{
     background-color: rgb(65, 64, 64);
-    color: white;
+    color: gainsboro;
+    text-shadow: 2px 3px gray;
     text-align: center;
-    font-size: 3rem;
+    font-size: 1.5rem;
  
 }
