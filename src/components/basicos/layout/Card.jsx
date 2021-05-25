@@ -7,7 +7,7 @@ function card(props) {
     return (
         <div className='card' >
             <div className="Title">{props.titulo}</div>
-            <div className="Contentee" >Conteudo</div>
+            <div className="Contentee" >Conteúdo</div>
         </div>
     )
     
