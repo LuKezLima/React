@@ -6,8 +6,8 @@ function card(props) {
 
     return (
         <div className='card' >
-            <div className="Titlee">{props.titulo}</div>
-            <div className="Content" >Conteudo</div>
+            <div className="Title">{props.titulo}</div>
+            <div className="Contentee" >Conteudo</div>
         </div>
     )
     
